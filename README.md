@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 ## Skill Stacks
 
-<br />
-
 ### Web Stack
 <span><img src="https://img.shields.io/badge/react--blue?style=for-the-badge&logo=React" /></span>
 <span><img src="https://img.shields.io/badge/nextJS--blue?style=for-the-badge&logo=Next.js" /></span>
@@ -35,22 +33,16 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/html--e34f26?style=for-the-badge&logo=HTML5" /></span>
 <span><img src="https://img.shields.io/badge/css--1572b6?style=for-the-badge&logo=CSS3" /></span>
 
-<br />
-
 ### UI / UX Stack
 <span><img src="https://img.shields.io/badge/Adobe XD--ff61f6?style=for-the-badge&logo=AdobeXD" /></span>
 <span><img src="https://img.shields.io/badge/figma--f24e1e?style=for-the-badge&logo=Figma" /></span>
 <span><img src="https://img.shields.io/badge/miro--050038?style=for-the-badge&logo=Miro" /></span>
-
-<br />
 
 ### Machine Learning Stack
 <span><img src="https://img.shields.io/badge/Tensorflow--ff6f00?style=for-the-badge&logo=Tensorflow" /></span>
 <span><img src="https://img.shields.io/badge/Keras--d00000?style=for-the-badge&logo=Keras" /></span>
 <span><img src="https://img.shields.io/badge/Pytorch--ee4c2c?style=for-the-badge&logo=PyTorch" /></span>
 <span><img src="https://img.shields.io/badge/Lightning--792ee5?style=for-the-badge&logo=PyTorchLightning" /></span>
-
-<br />
 
 ### Infrastructure Stack
 <span><img src="https://img.shields.io/badge/docker--2496ed?style=for-the-badge&logo=Docker" /></span>
