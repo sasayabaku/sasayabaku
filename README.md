@@ -28,31 +28,30 @@ Here are some ideas to get you started:
 <br />
 
 ### Web Stack
-<img src="https://img.shields.io/badge/react--blue?style=for-the-badge&logo=React" />
-<img src="https://img.shields.io/badge/nextJS--blue?style=for-the-badge&logo=Next.js" />
-<img src="https://img.shields.io/badge/Vue--4fc08d?style=for-the-badge&logo=Vue.js" />
-<img src="https://img.shields.io/badge/nuxtJS--00dc82?style=for-the-badge&logo=Nuxt.js" />
-<img src="https://img.shields.io/badge/html--e34f26?style=for-the-badge&logo=HTML5" />
-<img src="https://img.shields.io/badge/css--1572b6?style=for-the-badge&logo=CSS3" />
+<span><img src="https://img.shields.io/badge/react--blue?style=for-the-badge&logo=React" /></span>
+<span><img src="https://img.shields.io/badge/nextJS--blue?style=for-the-badge&logo=Next.js" /></span>
+<span><img src="https://img.shields.io/badge/Vue--4fc08d?style=for-the-badge&logo=Vue.js" /></span>
+<span><img src="https://img.shields.io/badge/nuxtJS--00dc82?style=for-the-badge&logo=Nuxt.js" /></span>
+<span><img src="https://img.shields.io/badge/html--e34f26?style=for-the-badge&logo=HTML5" /></span>
+<span><img src="https://img.shields.io/badge/css--1572b6?style=for-the-badge&logo=CSS3" /></span>
 
 <br />
 
 ### UI / UX Stack
-<img src="https://img.shields.io/badge/Adobe XD--ff61f6?style=for-the-badge&logo=AdobeXD" />
-<img src="https://img.shields.io/badge/figma--f24e1e?style=for-the-badge&logo=Figma" />
-<img src="https://img.shields.io/badge/miro--050038?style=for-the-badge&logo=Miro" />
+<span><img src="https://img.shields.io/badge/Adobe XD--ff61f6?style=for-the-badge&logo=AdobeXD" /></span>
+<span><img src="https://img.shields.io/badge/figma--f24e1e?style=for-the-badge&logo=Figma" /></span>
+<span><img src="https://img.shields.io/badge/miro--050038?style=for-the-badge&logo=Miro" /></span>
 
 <br />
 
 ### Machine Learning Stack
-<img src="https://img.shields.io/badge/Tensorflow--ff6f00?style=for-the-badge&logo=Tensorflow" />
-<img src="https://img.shields.io/badge/Keras--d00000?style=for-the-badge&logo=Keras" />
-<img src="https://img.shields.io/badge/Pytorch--ee4c2c?style=for-the-badge&logo=PyTorch" />
-<img src="https://img.shields.io/badge/Lightning--792ee5?style=for-the-badge&logo=PyTorchLightning" />
+<span><img src="https://img.shields.io/badge/Tensorflow--ff6f00?style=for-the-badge&logo=Tensorflow" /></span>
+<span><img src="https://img.shields.io/badge/Keras--d00000?style=for-the-badge&logo=Keras" /></span>
+<span><img src="https://img.shields.io/badge/Pytorch--ee4c2c?style=for-the-badge&logo=PyTorch" /></span>
+<span><img src="https://img.shields.io/badge/Lightning--792ee5?style=for-the-badge&logo=PyTorchLightning" /></span>
 
 <br />
 
 ### Infrastructure Stack
-<img src="https://img.shields.io/badge/docker--2496ed?style=for-the-badge&logo=Docker" />
-<img src="https://img.shields.io/badge/nginx--009639?style=for-the-badge&logo=NGINX" />
-<img src="https://img.shields.io/badge/GCP--4285f4?style=for-the-badge&logo=GoogleCloud" />
+<span><img src="https://img.shields.io/badge/docker--2496ed?style=for-the-badge&logo=Docker" /></span>
+<span><img src="https://img.shields.io/badge/GCP--4285f4?style=for-the-badge&logo=GoogleCloud" /></span>
