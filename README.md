@@ -1,7 +1,9 @@
 ## sasayabaku
 ### About Me
 
-HP: https://sasayabaku.netlify.app/
+HP: https://sasayabaku.netlify.app/  
+Qiita: https://qiita.com/sasayabaku  
+Zenn: https://zenn.dev/sasayabaku
 
 
 <!--
