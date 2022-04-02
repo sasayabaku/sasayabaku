@@ -1,4 +1,7 @@
 ## sasayabaku
+
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/sasayabaku/contributions.svg)](http://qiita.com/sasayabaku)
+
 ### About Me
 
 HP: https://sasayabaku.netlify.app/  
