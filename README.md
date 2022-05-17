@@ -60,3 +60,7 @@ Here are some ideas to get you started:
 ### Infrastructure
 <span><img src="https://img.shields.io/badge/docker-★★★-2496ed?style=for-the-badge&logo=Docker" /></span>
 <span><img src="https://img.shields.io/badge/GCP-★☆☆-4285f4?style=for-the-badge&logo=GoogleCloud" /></span>
+
+### XR
+<span><img src="https://img.shields.io/badge/Three.js-☆☆☆-000000?style=for-the-badge&logo=Threedotjs" /></span>
+<span><img src="https://img.shields.io/badge/unity-★★★-ffffff?style=for-the-badge&logo=Unity" /></span>
